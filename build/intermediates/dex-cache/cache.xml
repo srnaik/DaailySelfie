@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Naik Junior\Desktop\DailySelfie\DailySelfie\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Naik Junior\Desktop\DailySelfie\DailySelfie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.2_25132f3b53efe32ccdeb0265b7b21146fce68aba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Naik Junior\Desktop\DailySelfie\DailySelfie\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="3d6df0d22063c1cee5f6e2f1a854e5be6a84053a">
+        <dex dex="C:\Users\Naik Junior\Desktop\DailySelfie\DailySelfie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a48544d62b07e61b19f191050e59028d533998a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Naik Junior\Desktop\DailySelfie\DailySelfie\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.2_5c5fa8e4481d26c9e61169fa2fdafdabdd874439\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Naik Junior\Desktop\DailySelfie\DailySelfie\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Naik Junior\Desktop\DailySelfie\DailySelfie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.2_81e7216888a82a8e13c259536c71aa97942d41c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Naik Junior\Desktop\DailySelfie\DailySelfie\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="d3d9e667eebee034ec16a1c2df022a22e8a3392b">
+        <dex dex="C:\Users\Naik Junior\Desktop\DailySelfie\DailySelfie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2da1af6f446bb93487a018281ba03a224f28200b\classes.dex" />
+    </item>
+
+</items>

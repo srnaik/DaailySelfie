@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Naik Junior\\Desktop\\DailySelfie\\DailySelfie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Naik Junior\\Desktop\\DailySelfie\\DailySelfie\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Naik Junior\\Desktop\\DailySelfie\\DailySelfie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_camera.png",
+        "source": "C:\\Users\\Naik Junior\\Desktop\\DailySelfie\\DailySelfie\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Naik Junior\\Desktop\\DailySelfie\\DailySelfie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_delete.png",
+        "source": "C:\\Users\\Naik Junior\\Desktop\\DailySelfie\\DailySelfie\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_delete.png"
+    }
+]
